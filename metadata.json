@@ -1,0 +1,5 @@
+{
+  "name": "Cleanliness Survey App",
+  "description": "A web application to conduct surveys about cleanliness and view aggregated results. An AI-powered summary of feedback is available for the administrator.",
+  "requestFramePermissions": []
+}
